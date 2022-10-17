@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m @Nmuhra
+- 👋 Hey there, I’m @Nabegh
 - 🧑‍💻I’m interested in Linux and AI
 - 🐍I’m currently learning Python, Javascript, C and more.
 <!--
