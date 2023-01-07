@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @Nabegh
 - 🧑‍💻I’m interested in Linux and AI
-- 🐍I’m currently learning Python, Javascript, C and more.
+- 🐍I’m currently learning Python, Javascript, C++ and more.
 <!--
 **Nmuhra/Nmuhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
