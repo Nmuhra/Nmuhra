@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @Nabegh
-- 📚I’m a 3rd year IKS student at the University of Pretoria
-- 🐍I’m currently learning three.js, react, OCR and more.
+- 📚I’m a Bsc IKS graduate from the University of Pretoria
+- 🐍I’m currently learning python, Typescript, and more.
 <!--
 **Nmuhra/Nmuhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
